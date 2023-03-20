@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "Server_id": 1,
+            "ip_address": "192.168.1.100",
+            "operating_system": "Ubuntu 20.04",
+            "cpu": "Intel Core i5-9400F",
+            "ram": "16 GB",
+            "storage": "500 GB SSD"
+        },
+        {
+            "Server_id": 2,
+            "ip_address": "192.168.1.100",
+            "operating_system": "Ubuntu 20.04",
+            "cpu": "Intel Core i5-9400F",
+            "ram": "16 GB",
+            "storage": "500 GB SSD"
+        },
+        {
+            "Server_id": 3,
+            "ip_address": "192.168.1.100",
+            "operating_system": "Ubuntu 20.04",
+            "cpu": "Intel Core i5-9400F",
+            "ram": "16 GB",
+            "storage": "500 GB SSD"
+        }
+    ]
+}
