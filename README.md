@@ -5,6 +5,6 @@ To  create a API,that reflect a server details to manipulate and work all the HT
 
 Example of methods to run
 we can run this in url to do the operations
- http://localhost:8080/(method name)
+ http://localhost:8080/method_name
 
 In this project I used languge python package-cherrypy
